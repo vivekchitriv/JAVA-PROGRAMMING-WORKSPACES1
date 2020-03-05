@@ -1,0 +1,11 @@
+
+
+
+Set ClassPath::
+set CLASSPATH=G:\java by Vivek\java Program\ojdbc7.jar;.
+
+
+select * from Emp25
+
+
+insert into Emp25 values(11143,'Roger',3000,'cleark','veronr','15-nov-93');
